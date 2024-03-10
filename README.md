@@ -1,1 +1,4 @@
-# STM32-SPI-
+# STM32 SPI e ADC.
+
+ ADC e comunicação SPI.
+ ![IMG-20231127-WA0021](https://github.com/raulp2u/STM32-SPI-/assets/37675435/b1d085ce-45c8-471d-9cda-0ee6ebed9710)
